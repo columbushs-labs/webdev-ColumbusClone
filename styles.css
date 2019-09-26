@@ -34,16 +34,49 @@
     width: 100vw;
 }
 
-#hero img{
-    position: absolute;
-    top: 200px;
+#heroimg{
+    position: relative;
+    top: 140px;
     left: 50px;
 }
 
 #herotextdiv{
-    position: absolute;
-    top: 200px;
-    left: 200px;
+    position: relative;
+    top: 5px;
+    left: 220px;
+}
+
+/*------------------------- Explore CCHS ------------------------------------*/
+
+#explorecchs{
+    height: 400px;
+    width: 100vw;
+    background-color: blue;
+}
+
+#exploreheader{
+    height: 80px;
+    width: 100vw;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#exploresection{
+    height: 320px;
+    width: 100vw;
+    background-color: aqua;
+}
+
+.explorebox{
+    display: inline-block;
+    height: 290px;
+    width: 24.5%;
+    background-color: chartreuse;
+}
+
+#hurricane{
+    background-image: url(images/patriots\ plaza.jpg);
+    background-size: center;
 }
 
 
