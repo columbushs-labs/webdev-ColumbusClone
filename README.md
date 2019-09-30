@@ -14,23 +14,22 @@
 You are now ready to put your skills to the test. This project will be a compilation of smaller projects that have led you up to this point. When you make your first commit I need you to create a github page and Slack me the URL so I can track your progress. Remember, when eating an elephant take one bite at a time.
 
 
-## NavBar
+### NavBar
 
 
-
-## Hero Section
-
-
-## Explore CCHS
+### Hero Section
 
 
-## CCHS At A Glance
+### Explore CCHS
 
 
-## Info Bar
+### CCHS At A Glance
 
 
-## College
+### Info Bar
 
 
-## Footer
+### College
+
+
+### Footer
