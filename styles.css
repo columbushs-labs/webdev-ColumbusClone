@@ -57,7 +57,7 @@
 #exploreheader{
     height: 80px;
     width: 100vw;
-    background-color: blueviolet;
+    background-color:  #10243b;
     text-align: center;
 }
 
@@ -76,7 +76,79 @@
 
 #hurricane{
     background-image: url(images/patriots\ plaza.jpg);
-    background-size: center;
+    background-size: cover;
+    background-position: center;
+}
+
+#guidance{
+    background-image: url(images/college.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#ccnn{
+    background-image: url(images/ccnn.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#media{
+    background-image: url(images/ccnn\ live.png);
+    background-size: cover;
+    background-position: center;
+}
+
+/*--------------------------- CCHS AT A GLANCE---------------*/
+
+#CCHSATGLANCE{
+    height: 400px;
+    width: 100vw;
+    background-color: white;
+}
+
+#GLANCEHEADER{
+    height: 80px;
+    width: 100vw;
+    background-color:  white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#glancesection{
+    height: 320px;
+    width: 100vw;
+    background-color: white;
+}
+
+.glancebox{
+    display: inline-block;
+    height: 280px;
+    width: 24.5%;
+    background-color: chartreuse;
+}
+
+#money{
+    background-image: url(images/carosel\ money.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#graduation{
+    background-image: url(images/grad.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#book{
+    background-image: url(images/book.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+#teacher{
+    background-image: url(images/carosel\ teaching.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 
