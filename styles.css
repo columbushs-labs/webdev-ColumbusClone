@@ -59,12 +59,15 @@
     width: 100vw;
     background-color:  #10243b;
     text-align: center;
+    color: white;
+    font-family: "PT Sans Narrow"
 }
+
 
 #exploresection{
     height: 320px;
     width: 100vw;
-    background-color: aqua;
+    background-color: #10243b;
 }
 
 .explorebox{
@@ -137,18 +140,28 @@
     background-image: url(images/grad.jpg);
     background-size: cover;
     background-position: center;
+    width: 24.5%;
 }
 
 #book{
     background-image: url(images/book.jpg);
     background-size: contain;
     background-position: center;
+    width: 24.5%;
 }
 
 #teacher{
     background-image: url(images/carosel\ teaching.jpg);
+    background-size: contain;
+    background-position: center;
+    width: 24.5%;
+}
+
+#media{
+    background-image: url(images/ccnnlive.png);
     background-size: cover;
     background-position: center;
+    width: 24.5%;
 }
 
 
