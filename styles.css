@@ -107,6 +107,7 @@
     height: 400px;
     width: 100vw;
     background-color: white;
+    margin-left: 21%;
 }
 
 #GLANCEHEADER{
@@ -115,6 +116,7 @@
     background-color:  white;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
+    margin-left: 10%;
 }
 
 #glancesection{
@@ -126,44 +128,123 @@
 .glancebox{
     display: inline-block;
     height: 280px;
-    width: 24.5%;
-    background-color: chartreuse;
+    width: 15%;
+    background-color: white;
+    text-align: center;
+}
+
+.glancebox h4{
+    color: red;
+    font-family: sans-serif;
+}
+
+.glancebox p{
+    font-family: 'Open Sans' , sans-serif;
 }
 
 #money{
-    background-image: url(images/carosel\ money.jpg);
+    /* background-image: url(images/carosel\ money.jpg); */
+    /* background-size: cover;
+    background-position: center;
+    width: 24.5%;
+    background-repeat: no-repeat; */
+}
+
+#money img{
+    width: 100%;
+    height: 300px;
+}
+
+#graduation img{
+    width: 100%;
+    height: 300px;
+}
+
+
+#book img{
+    width: 100%;
+    height: 300px;
+}
+
+
+#teacher img{
+    width: 100%;
+    height: 300px;
+    float: inherit;
+}
+
+
+#media img{
+    width: 100%;
+    height: 300px;
+}
+
+#bluebox{
+    height: 200px;
+    width: 70vw;
+    background-color:  #10243b;
+    text-align: center;
+    color: white;
+    font-family: "PT Sans Narrow";
+    margin-top: 200px;
+    font-size: 2.2em;
+    padding-top: 50px;
+    margin-left: 15%;
+
+}
+
+#colleges{
+    height: 400px;
+    width: 100vw;
+    background-color: blue;
+}
+
+#collegeheader{
+    height: 80px;
+    width: 100vw;
+    background-color:  white;
+    text-align: center;
+    color: #10243b;
+    font-family: "PT Sans Narrow"
+}
+
+
+#collegesection{
+    height: 320px;
+    width: 100vw;
+    background-color: white;
+}
+
+.collegebox{
+    display: inline-block;
+    height: 290px;
+    width: 24.5%;
+    background-color: white;
+}
+
+#yale{
+    background-image: url(images/yale.png);
     background-size: cover;
     background-position: center;
 }
 
-#graduation{
-    background-image: url(images/grad.jpg);
+#northcarolina{
+    background-image: url(images/northcarolina.png);
     background-size: cover;
     background-position: center;
-    width: 24.5%;
 }
 
-#book{
-    background-image: url(images/book.jpg);
-    background-size: contain;
-    background-position: center;
-    width: 24.5%;
-}
-
-#teacher{
-    background-image: url(images/carosel\ teaching.jpg);
-    background-size: contain;
-    background-position: center;
-    width: 24.5%;
-}
-
-#media{
-    background-image: url(images/ccnnlive.png);
+#wakeforest{
+    background-image: url(images/wakeforest.png);
     background-size: cover;
     background-position: center;
-    width: 24.5%;
 }
 
+#um{
+    background-image: url(images/um.png);
+    background-size: cover;
+    background-position: center;
+}
 
 
 
