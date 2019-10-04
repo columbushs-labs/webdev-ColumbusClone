@@ -116,7 +116,7 @@
     background-color:  white;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 #glancesection{
@@ -135,11 +135,12 @@
 
 .glancebox h4{
     color: red;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .glancebox p{
-    font-family: 'Open Sans' , sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: black;
 }
 
 #money{
@@ -245,6 +246,69 @@
     background-size: cover;
     background-position: center;
 }
+
+/*------------------------------ footer------------------------------*/
+
+#footer{
+    width: 100%;
+    height: 200px;
+    background-color: #10243b;
+}
+#footernav{
+    height: 75px;
+    background-color: #10243b;
+    color: white;
+    font-size: 1.2em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    width: 100vw;
+}
+
+#cchscontact{
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#cchsmission{
+    color: grey;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#footer li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+#footerul li:nth-child(5){
+    padding: 0 160px;
+}
+
+#footercontent{
+    height: 325px;
+    width: 100%;
+    background-color: #333;
+}
+
+#cchscontact h3:first-child{
+    width: 60%;
+}
+
+#cchscontact h3:nth-child(2){
+    width: 20%;
+    float: right;
+}
+
+.right{
+    float: right;
+}
+
+#footerimg{
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+
+
+
 
 
 
